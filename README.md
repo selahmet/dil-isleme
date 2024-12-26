@@ -1,1 +1,1 @@
-# dil-i-leme
+# dil işleme adımları
